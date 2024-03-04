@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034068026280",
+    "project_id": "growintern-news",
+    "storage_bucket": "growintern-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034068026280:android:77a500117029185878f39d",
+        "android_client_info": {
+          "package_name": "com.growintern.bnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu4mTnk3WN2hCNRgdSE4xjqvl9eeb_pEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
